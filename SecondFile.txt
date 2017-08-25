@@ -1,3 +1,4 @@
 Adding a second file
 Now inserting text in a blank line
 This file also got changed
+_______NEW
