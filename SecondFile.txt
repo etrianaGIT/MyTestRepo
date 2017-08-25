@@ -1,6 +1,7 @@
 Adding a second file
-Now inserting text in a blank line
+
 This file also got changed
 _______NEW
 Change in File 2
 unwanted changes in file 2
+Deleted text above
